@@ -1,0 +1,7 @@
+# 需要从 Claude Marketplace (claude-plugins-official) 安装的插件
+# 每行一个插件名，运行 claude plugin install <name>
+superpowers
+code-review
+code-simplifier
+ralph-loop
+skill-creator

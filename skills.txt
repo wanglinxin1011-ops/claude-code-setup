@@ -1,0 +1,18 @@
+# 手动安装的 Skills（非 marketplace）
+# 格式: repo_url  source_subdir  target_name
+# 从 GitHub 仓库克隆指定子目录到 .claude/skills/<target_name>
+
+# PPTX - 来自 anthropics 官方 skills 仓库
+https://github.com/anthropics/skills.git  skills/pptx  pptx
+
+# Planning with Files - Manus 风格文件规划
+https://github.com/OthmanAdi/planning-with-files.git  skills/planning-with-files  planning-with-files
+
+# UI UX Pro Max 系列 skills
+https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git  .claude/skills/ui-ux-pro-max  ui-ux-pro-max
+https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git  .claude/skills/banner-design  banner-design
+https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git  .claude/skills/brand  brand
+https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git  .claude/skills/design  design
+https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git  .claude/skills/design-system  design-system
+https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git  .claude/skills/slides  slides
+https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git  .claude/skills/ui-styling  ui-styling

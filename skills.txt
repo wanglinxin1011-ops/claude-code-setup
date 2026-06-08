@@ -16,3 +16,9 @@ https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git  .claude/skills/desi
 https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git  .claude/skills/design-system  design-system
 https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git  .claude/skills/slides  slides
 https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git  .claude/skills/ui-styling  ui-styling
+
+# 自研 Skills
+https://github.com/wanglinxin1011-ops/-f1-meeting-reserve.git  .  f1-meeting-reserve
+https://github.com/wanglinxin1011-ops/recruit-ops.git  .  recruit-ops
+https://github.com/wanglinxin1011-ops/cnki-art-thesis-writer.git  .  cnki-art-thesis-writer
+https://github.com/alchaincyf/darwin-skill.git  .  darwin-skill

@@ -22,3 +22,6 @@ https://github.com/wanglinxin1011-ops/-f1-meeting-reserve.git  .  f1-meeting-res
 https://github.com/wanglinxin1011-ops/recruit-ops.git  .  recruit-ops
 https://github.com/wanglinxin1011-ops/cnki-art-thesis-writer.git  .  cnki-art-thesis-writer
 https://github.com/alchaincyf/darwin-skill.git  .  darwin-skill
+
+# 职级对比 skill - 各公司职级体系对照表
+https://github.com/wanglinxin1011-ops/level-comparison.git  .  level-comparison
